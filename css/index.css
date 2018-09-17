@@ -2,21 +2,12 @@
 a{
     text-decoration: none;
 }
-header{
-    width: 100%;
-    height: 40px;
-    background: #444;
-}
 .container{
     height: 100%;
     margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: flex-end;
-}
-header div{
-    font-size: 10px;
-    color: #a8a8aa;
 }
 nav{
     width: 100%;
